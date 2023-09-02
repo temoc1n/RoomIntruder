@@ -3,8 +3,6 @@
 ### Why I did this?
 <ul>
 <li>Because I didn't had anything else to do and I love to play with machine learning algorithms.</li>
-<br>
-<li>Also because I don't live alone.</li>
 </ul>
 
 ### What is this? 
